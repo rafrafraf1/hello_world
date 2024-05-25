@@ -42,4 +42,5 @@ This example shows that any non-existent function name followed by the argument 
 
 ## Inspiration
 My inspiration for this glorious project.
+
 ![Code Screenshot](./meme.jpeg)
