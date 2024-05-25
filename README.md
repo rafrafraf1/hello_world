@@ -6,6 +6,8 @@ This project showcases a Python script that does the reverse of the traditional 
 
 The main idea behind this project is to provide a fun and challenging twist on the standard `print` function, inspired by a meme. While it serves no practical purpose, it can be a source of entertainment and a learning exercise for those who enjoy exploring unconventional coding techniques.
 
+I tasked myself with making this project in just one line too, making this the first and only reverse print one-liner (that I am aware of).
+
 ## Code Explanation
 
 The script overrides Python's default exception handling to achieve the desired functionality. Here's a brief breakdown of how it works:
