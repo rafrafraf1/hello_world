@@ -26,3 +26,12 @@ __import__("sys").excepthook = lambda t, v, tb: (
 )
 
 Hello_world('print')
+
+
+### Example
+
+In this example, calling `Hello_world('print')` results in the output `Hello World`. Similarly, calling any non-existent function with the argument `"print"` will output the function name with underscores replaced by spaces. For instance, `Goodbye_world('print')` would result in the output `Goodbye World`.
+
+## Screenshot
+
+![Code Screenshot](./helloworld.png)
